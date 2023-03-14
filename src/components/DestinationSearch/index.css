@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.logo {
+  height: 30px;
+  width: 30px;
+}
+.ul {
+  display: flex;
+  justify-content: center;
+  padding-left: 0px;
+  margin-top: 30px;
+  flex-wrap: wrap;
+}
+head {
+  color: black;
+  font-weight: 800;
+}
+.search-bar {
+  height: 20px;
+  width: 50%;
+}
+.search {
+  color: #0f172a;
+  font-size: 12px;
+}
+.countries {
+  color: black;
+  font-weight: 500;
+  font-size: 30px;
+}
+.con {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
